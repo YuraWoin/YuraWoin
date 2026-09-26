@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Yura 👋
 
-<!--
-**YuraWoin/YuraWoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on Python who likes turning ideas into working products — from Telegram bots to my own hardware builds.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** [YuStack](https://yustack.netlify.app/) — my own Telegram bot development agency-
+- 🌱 **Learning:** C#, DevOps
+- ⚙️ **Stack:** `Python` `FastAPI` `aiogram` `SQLAlchemy` `PostgreSQL` `Docker` `Pygame` `CustomTkinter`
+- 📫 **Reach me:** [t.me/YuraWoin](https://t.me/YuraWoin) · [yustack.netlify.app](https://yustack.netlify.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+🎮 **[Game](https://github.com/YuraWoin/game)** — a Pygame space arcade: fly from Earth dodging meteors, land on Mars to collect biomaterial, and return to craft an antidote to save the world.
+
+💬 **Messenger** — a desktop chat app built with `CustomTkinter` + raw Python sockets, using a custom protocol with no third-party networking libraries.
+
+🤖 **[Telegram_Bot](https://github.com/YuraWoin/Telegram_Bot)** — a template built with `aiogram` + `SQLAlchemy`, featuring shop and appointment-booking modules as a starting point for new bots.
+
+### 📊 GitHub Stats
+
+![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuraWoin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuraWoin&layout=compact&theme=radical)
