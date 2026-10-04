@@ -11,7 +11,7 @@ Backend developer focused on Python who likes turning ideas into working product
 
 🎮 **[Game](https://github.com/YuraWoin/survival-on-mars.git)** — a Pygame space arcade: fly from Earth dodging meteors, land on Mars to collect biomaterial, and return to craft an antidote to save the world.
 
-💬 **Messenger** — a desktop chat app built with `CustomTkinter` + raw Python sockets, using a custom protocol with no third-party networking libraries.
+💬 **[Messenger](https://github.com/YuraWoin/tgcopia)** — a desktop chat app built with `CustomTkinter` + raw Python sockets, using a custom protocol with no third-party networking libraries.
 
 🤖 **[Telegram_Bot](https://github.com/YuraWoin/Telegram_Bot)** — a template built with `aiogram` + `SQLAlchemy`, featuring shop and appointment-booking modules as a starting point for new bots.
 
